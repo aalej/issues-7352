@@ -1,5 +1,12 @@
 # Repro for issue 7352
 
+## Versions
+
+platform: macOS Sonoma 14.5<br>
+firebase-tools: v13.11.4<br>
+gcloud: v476.0.0<br>
+cloud-datastore-emulator: v2.3.1
+
 ## Steps to reproduce
 
 1. Run `python3.11 -m venv venv`
